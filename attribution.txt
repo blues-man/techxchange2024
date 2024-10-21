@@ -1,0 +1,4 @@
+Title of work: "IBM TechXchange 2024 sessions by Natale Vinto and co-speakers"
+Link to work: https://reg.tools.ibm.com/flow/ibm/techxchange24/sessioncatalog/page/sessioncatalog?tab.sessioncatalogtabs=option_1601178495160&search=%22natale%20vinto%22
+License of the work: Apache 2.0
+Creator names: Natale Vinto
