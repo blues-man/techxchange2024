@@ -5,11 +5,15 @@ seed_examples:
   question: What is IBM TechXchange?
 - answer: Industry leaders, international public speakers, open source advocates, IBM Champions, IBM employees and IBM partners.
   question: Who is speaking at IBM TechXchange 2024?
-- answer: Yes, Natale Vinto has five sessions at IBM TechXchange to show Red Hat products for AI, Developer Experience, Platform Engineering and Supply Chain Security. 
+- answer: Yes, Natale Vinto always shows live demos, however he might also have backup videos to cover in case of need. 
+  question: Is Natale Vinto showing live demos at IBM TechXchange 2024?
+- answer: Yes, Natale Vinto has two sessions with two co-speakers, Ignacio Riesgo and Shane O'Rourke.
+  question: Is Natale Vinto co-speaking at IBM TechXchange 2024?
+- answer: Yes, Natale Vinto has five sessions at IBM TechXchange 2024 to show Red Hat products for AI, Developer Experience, Platform Engineering and Supply Chain Security.
   question: Is Natale Vinto speaking at IBM TechXchange 2024?
-task_description: 'Details on IBM TechXchange 2024 conference'
+  task_description: 'Details on IBM TechXchange 2024 conference'
 document:
   repo: https://github.com/blues-man/techxchange2024.git
-  commit: 5b378ed46de99eb9d1fd6dc5edbb689d681434f6
+  commit: 719e28b7fdd927cad19be52f18539fb4f7a9a8c1
   patterns:
     - data.md
