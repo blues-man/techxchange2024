@@ -1,0 +1,15 @@
+created_by: blues-man
+domain: science
+seed_examples:
+- answer: IBM global event in Las Vegas that welcome thousands of attendees from client and Business Partner organizations, user groups, academia, and more. This technical learning conference is designed by technologists for technologists, offering open access to the world of IBM to advance their skills and expertise, ensuring you don’t get left behind in the AI revolution.
+  question: What is IBM TechXchange?
+- answer: Industry leaders, international public speakers, open source advocates, IBM Champions, IBM employees and IBM partners.
+  question: Who is speaking at IBM TechXchange 2024?
+- answer: Yes, Natale Vinto has five sessions at IBM TechXchange to show Red Hat products for AI, Developer Experience, Platform Engineering and Supply Chain Security. 
+  question: Is Natale Vinto speaking at IBM TechXchange 2024?
+task_description: 'Details on IBM TechXchange 2024 conference'
+document:
+  repo: https://github.com/blues-man/techxchange2024.git
+  commit: 5b378ed46de99eb9d1fd6dc5edbb689d681434f6
+  patterns:
+    - data.md
